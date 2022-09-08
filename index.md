@@ -73,7 +73,7 @@ Please note that this is our first time teaching these materials back in person 
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.html)
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.Exercise.html)  
 * 16.00 - 17.00 **Introduction to Single Cell Technologies** Katarzyna Kania 
-    <!-- + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/01_Introduction.pdf) -->
+    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/01_Introduction.pdf)
 
 ### Day 2
 
