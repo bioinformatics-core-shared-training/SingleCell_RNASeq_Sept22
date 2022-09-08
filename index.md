@@ -9,17 +9,16 @@
 ## Instructors
 
 * Abigail Edwards - Bioinformatics Core, Cancer Research UK Cambridge Institute
+* Adam Reid - The Gurdon Institute, University of Cambridge
 * Ashley Sawle - Bioinformatics Core, Cancer Research UK Cambridge Institute
 * Chandra Chilamakuri - Bioinformatics Core, Cancer Research UK Cambridge Institute
 * Katarzyna Kania - Genomics Core, Cancer Research UK Cambridge Institute
-* Stephane Ballereau - Cellular Genetics programme, Wellcome Sanger Institute
 * Roderik Kortlever - Dept. Biochemistry, University of Cambridge
 
 **Helpers:**
 
-* Adam Reid - The Gurdon Institute, University of Cambridge
 * Hugo Tavares - Bioinformatics Training Facility, University of Cambridge
-* Tom Smith - MRC Toxicology, University of Cambridge
+* Stephane Ballereau - Cellular Genetics programme, Wellcome Sanger Institute
 
 ## Outline
 
@@ -55,7 +54,7 @@ Two data sets:
 
 ## Schedule
 
-Please not that we may adjust these times as the pace of the course requires.
+Please note that this is our first time teaching these materials back in person so we may adjust these times as the pace requires.
 
 ### Day 1
 
@@ -65,14 +64,14 @@ Please not that we may adjust these times as the pace of the course requires.
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/02_PreambleSlides.html)
 * 10:40 - 12:00 Library structure, **cellranger** for alignment and cell calling - Adam Reid
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03_CellRangerSlides.html) <!-- \([pdf](scRNAseq/Slides/CellRangerSlides.pdf)\) -->
-    + [Alignment with Cell Ranger](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/03_CellRanger.html)
+    + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/03_CellRanger.html)
 * 12.00 - 12.30 **Loupe browser demo** - Roderik Kortlever
   + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03.1_LoupeBrowserDemo.pdf)
 * 12:30 - 13:30 **lunch break**
 * 13.30 - 16.00 **QC and exploratory analysis** - Ashley Sawle
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.pdf)\)
-    + [QC and preprocessing](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.html)
-    + [Exercise](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.Exercise.html)  
+    + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.html)
+    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.Exercise.html)  
 * 16.00 - 17.00 **Introduction to Single Cell Technologies** Katarzyna Kania 
     <!-- + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/01_Introduction.pdf) -->
 
@@ -80,48 +79,33 @@ Please not that we may adjust these times as the pace of the course requires.
 
 * 09:30 - 09:40 Recap <!-- ?? -->
 * 09:40 - 12:30 **Normalisation** - Chandra Chilamakuri
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/05_NormalisationSlides.html) <!-- \([pdf](scRNAseq/Slides/05_normalisationSlides.pdf)\) -->
-    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation.html)    
-    + [Exercises](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation_exercises.html)
-    + [Exercise Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation_exercises_solutions.html)
+<!--    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/05_NormalisationSlides.html) <!-- \([pdf](scRNAseq/Slides/05_normalisationSlides.pdf)\) -->
+    + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation.html)    
+    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation_exercises.html) -->
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 15:25 **Feature selection and dimensionality reduction** - Abigail Edwards
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.html)
-    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/06_FeatureSelectionAndDimensionalityReduction.html)
-        + R script for practical in `Exercises/06_DimensionalityReduction_worksheet.R` (you can also download it [here](UnivCambridge_ScRnaSeqIntro_Base/CourseMaterials/Exercises/06_DimensionalityReduction_worksheet.R))
-<!-- + [Materials](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/06_FeatureSelectionAndDimensionalityReduction.html) -->
+   <!-- + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.html)
+    + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/06_FeatureSelectionAndDimensionalityReduction.html) -->
 * 15:25 - 15:35 10 min **break**
 * 15:35 - 17:30 **Batch correction and data set integration** - Ashley Sawle
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.html)  
-    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_DatasetIntegration.html) 
-        + R script for practical in `Exercises/07_DatasetIntegration_worksheet.R` (you can also download it [here](UnivCambridge_ScRnaSeqIntro_Base/CourseMaterials/Exercises/07_DatasetIntegration_worksheet.R))
-<!-- + [Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_DataIntegrationChallengeSolution.html) -->
-<!-- + [Batch Correction extended example](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_BatchCorrection.html) -->
+   <!-- + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.html)  
+    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_DatasetIntegration.html)
+    + [Exercise](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_???) -->
     
 ### Day 3
 
 * 09:30 - 09:40 Recap <!-- ?? -->
 * 09:40 - 11:05 **Clustering** - Adam Reid
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
-    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_Clustering_Materials.html) -->
-        + R script for practical in `Exercises/08_Clustering_Worksheet.R` (you can also download it [here](UnivCambridge_ScRnaSeqIntro_Base/CourseMaterials/Exercises/08_Clustering_Worksheet.R))
-
+    <!--+ [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
+    + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_Clustering_Materials.html) -->
 * 11:05 - 11:15 10 min **break** 
 * 11:15 - 12:30 **Identification of cluster marker genes** - Adam Reid
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html)
-    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_ClusterMarkerGenes.html)
-        + R script for practical in `Exercises/09_ClusterMarkerGenes.R` (you can also download it [here](UnivCambridge_ScRnaSeqIntro_Base/CourseMaterials/Exercises/09_ClusterMarkerGenes.R))
-
+  <!--  + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html)
+    + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_ClusterMarkerGenes.html) -->
 * 12:30 - 13:30 **lunch break**
-* 13:30 - 15:25 **Differential expression between conditions** - Abigail Edwards
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
-    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html)
-    + [Exercise1](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise1.Rmd) 
-    + [Exercise1 Solutions](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise1_solutions.html)
-* 15:25 - 15:35 10 min **break** 
-* 15:35 - 17:30 **Differential abundance between conditions** - Abigail Edwards
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
-    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html)
-    + [Milo paper](https://www.biorxiv.org/content/10.1101/2020.11.23.393769v1)
-    + [Milo package](https://bioconductor.org/packages/release/bioc/html/miloR.html)
+* 13:30 - 17.30 **Differential Expression and Abundance Analysis** - Abigail Edwards
+  <!--  + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
+    + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html)
+    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise1.Rmd) --> 
+
 
