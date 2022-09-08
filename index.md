@@ -19,8 +19,6 @@
 
 * Adam Reid - The Gurdon Institute, University of Cambridge
 * Hugo Tavares - Bioinformatics Training Facility, University of Cambridge
-* Jon Price - The Gurdon Institute, University of Cambridge
-* Raquel Manzano Garcia - Cancer Research UK Cambridge Institute
 * Tom Smith - MRC Toxicology, University of Cambridge
 
 ## Outline
@@ -76,7 +74,7 @@ Please not that we may adjust these times as the pace of the course requires.
     + [QC and preprocessing](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.html)
     + [Exercise](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/04_Preprocessing_And_QC.Exercise.html)  
 * 16.00 - 17.00 **Introduction to Single Cell Technologies** Katarzyna Kania 
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/01_Introduction.pdf)
+    <!-- + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/01_Introduction.pdf) -->
 
 ### Day 2
 
