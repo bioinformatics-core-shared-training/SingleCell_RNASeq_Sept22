@@ -79,16 +79,19 @@ Please note that this is our first time teaching these materials back in person 
 
 * 09:30 - 09:40 Recap <!-- ?? -->
 * 09:40 - 12:30 **Normalisation** - Chandra Chilamakuri
-<!--    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/05_NormalisationSlides.html) <!-- \([pdf](scRNAseq/Slides/05_normalisationSlides.pdf)\) -->
+
+<!--    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/05_NormalisationSlides.html) \([pdf](scRNAseq/Slides/05_normalisationSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation.html)    
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/05_Normalisation_exercises.html) -->
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 15:25 **Feature selection and dimensionality reduction** - Abigail Edwards
-   <!-- + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.html)
+
+<!-- + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/06_FeatureSelectionAndDimensionalityReduction_slides.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/06_FeatureSelectionAndDimensionalityReduction.html) -->
 * 15:25 - 15:35 10 min **break**
 * 15:35 - 17:30 **Batch correction and data set integration** - Ashley Sawle
-   <!-- + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.html)  
+
+<!-- + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.html)  
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_DatasetIntegration.html)
     + [Exercise](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_???) -->
     
@@ -96,16 +99,29 @@ Please note that this is our first time teaching these materials back in person 
 
 * 09:30 - 09:40 Recap <!-- ?? -->
 * 09:40 - 11:05 **Clustering** - Adam Reid
-    <!--+ [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
+
+    <!-- + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_Clustering_Materials.html) -->
 * 11:05 - 11:15 10 min **break** 
 * 11:15 - 12:30 **Identification of cluster marker genes** - Adam Reid
+
   <!--  + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_ClusterMarkerGenes.html) -->
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 17.30 **Differential Expression and Abundance Analysis** - Abigail Edwards
+
   <!--  + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html)
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise1.Rmd) --> 
 
+## Acknowledgments: 
 
+Much of the material in this course has been derived from the demonstrations found in 
+[OSCA book](http://bioconductor.org/books/3.14/OSCA.basic/normalization.html) 
+and the [Hemberg Group course materials](https://www.singlecellcourse.org/). Additional material concerning `miloR` has been based on the [demonstration from the Marioni Lab.](https://marionilab.github.io/miloR/articles/milo_demo.html)
+
+The materials have been contributed to by many individuals over the last 2 years, including:
+
+Abigail Edwards, Ashley D Sawle, Chandra Chilamakuri, Kamal Kishore, Stephane Ballereau, Zeynep Kalendar Atak, Hugo Tavares, Jon Price, Katarzyna Kania, Roderik Kortlever, Adam Reid, Tom Smith
+
+Apologies if we have missed anyone!
