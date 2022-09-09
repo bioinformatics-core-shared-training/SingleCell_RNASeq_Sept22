@@ -60,6 +60,7 @@ so we may adjust these times as the pace requires.
 
 * 09:30 - 09:40 **Welcome** <!-- Hugo -->
 * 09:40 - 10:00 **Introduction** - Hugo Tavares
+    + [Slides](https://docs.google.com/presentation/d/1P1XbrsX-_QEbXnq6R8oLV9diE4lgJV6ew6KGtBw_XuQ/edit?usp=sharing) 
 * 10:20 - 10:10 **Preamble**: data set and workflow - Adam Reid
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/02_PreambleSlides.html)
 * 10:40 - 12:00 Library structure, **cellranger** for alignment and cell calling - Adam Reid
