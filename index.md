@@ -46,13 +46,15 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 
 ## Data set
 
-* '[CaronBourque2020](https://www.nature.com/articles/s41598-020-64929-x)': pediatric leukemia, with four sample types, including:
+* '[CaronBourque2020](https://www.nature.com/articles/s41598-020-64929-x)' 
+  pediatric leukemia, with four sample types, including:
   * pediatric Bone Marrow Mononuclear Cells (PBMMCs)
   * three tumour types: ETV6-RUNX1, HHD, PRE-T  
 
 ## Schedule
 
-Please note that this is our first time teaching these materials back in person so we may adjust these times as the pace requires.
+Please note that this is our first time teaching these materials back in person
+so we may adjust these times as the pace requires.
 
 ### Day 1
 
@@ -61,7 +63,7 @@ Please note that this is our first time teaching these materials back in person 
 * 10:20 - 10:10 **Preamble**: data set and workflow - Adam Reid
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/02_PreambleSlides.html)
 * 10:40 - 12:00 Library structure, **cellranger** for alignment and cell calling - Adam Reid
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03_CellRangerSlides.html) <!-- \([pdf](scRNAseq/Slides/CellRangerSlides.pdf)\) -->
+    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03_CellRangerSlides.html) \([pdf](scRNAseq/Slides/CellRangerSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/03_CellRanger.html)
 * 12.00 - 12.30 **Loupe browser demo** - Roderik Kortlever
   + [Slides](https://docs.google.com/presentation/d/1x80SzeBd8Hyueqvs5OsB48ivXkyO-KhCaY9BVnAs8D0/edit?usp=sharing)
