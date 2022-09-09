@@ -44,9 +44,7 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 > attempting these materials.
 > We recommend our [Introduction to R course](https://bioinformatics-core-shared-training.github.io/r-intro/)
 
-## Data sets
-
-Two data sets:
+## Data set
 
 * '[CaronBourque2020](https://www.nature.com/articles/s41598-020-64929-x)': pediatric leukemia, with four sample types, including:
   * pediatric Bone Marrow Mononuclear Cells (PBMMCs)
