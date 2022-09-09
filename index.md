@@ -66,7 +66,7 @@ Please note that this is our first time teaching these materials back in person 
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03_CellRangerSlides.html) <!-- \([pdf](scRNAseq/Slides/CellRangerSlides.pdf)\) -->
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/03_CellRanger.html)
 * 12.00 - 12.30 **Loupe browser demo** - Roderik Kortlever
-  + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03.1_LoupeBrowserDemo.pdf)
+  + [Slides](https://docs.google.com/presentation/d/1x80SzeBd8Hyueqvs5OsB48ivXkyO-KhCaY9BVnAs8D0/edit?usp=sharing)
 * 12:30 - 13:30 **lunch break**
 * 13.30 - 16.00 **QC and exploratory analysis** - Ashley Sawle
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.pdf)\)
