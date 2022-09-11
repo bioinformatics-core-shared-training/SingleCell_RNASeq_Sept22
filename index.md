@@ -44,29 +44,30 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 > attempting these materials.
 > We recommend our [Introduction to R course](https://bioinformatics-core-shared-training.github.io/r-intro/)
 
-## Data sets
+## Data set
 
-Two data sets:
-
-* '[CaronBourque2020](https://www.nature.com/articles/s41598-020-64929-x)': pediatric leukemia, with four sample types, including:
+* '[CaronBourque2020](https://www.nature.com/articles/s41598-020-64929-x)' 
+  pediatric leukemia, with four sample types, including:
   * pediatric Bone Marrow Mononuclear Cells (PBMMCs)
   * three tumour types: ETV6-RUNX1, HHD, PRE-T  
 
 ## Schedule
 
-Please note that this is our first time teaching these materials back in person so we may adjust these times as the pace requires.
+Please note that this is our first time teaching these materials back in person
+so we may adjust these times as the pace requires.
 
 ### Day 1
 
 * 09:30 - 09:40 **Welcome** <!-- Hugo -->
 * 09:40 - 10:00 **Introduction** - Hugo Tavares
+    + [Slides](https://docs.google.com/presentation/d/1P1XbrsX-_QEbXnq6R8oLV9diE4lgJV6ew6KGtBw_XuQ/edit?usp=sharing) 
 * 10:20 - 10:10 **Preamble**: data set and workflow - Adam Reid
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/02_PreambleSlides.html)
 * 10:40 - 12:00 Library structure, **cellranger** for alignment and cell calling - Adam Reid
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03_CellRangerSlides.html) <!-- \([pdf](scRNAseq/Slides/CellRangerSlides.pdf)\) -->
+    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03_CellRangerSlides.html) \([pdf](scRNAseq/Slides/CellRangerSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/03_CellRanger.html)
 * 12.00 - 12.30 **Loupe browser demo** - Roderik Kortlever
-  + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03.1_LoupeBrowserDemo.pdf)
+  + [Slides](https://docs.google.com/presentation/d/1x80SzeBd8Hyueqvs5OsB48ivXkyO-KhCaY9BVnAs8D0/edit?usp=sharing)
 * 12:30 - 13:30 **lunch break**
 * 13.30 - 16.00 **QC and exploratory analysis** - Ashley Sawle
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.html) \([pdf](UnivCambridge_ScRnaSeqIntro_Base/Slides/04_QualityControlSlides.pdf)\)
