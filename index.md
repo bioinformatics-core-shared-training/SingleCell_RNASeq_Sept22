@@ -101,8 +101,8 @@ so we may adjust these times as the pace requires.
 * 09:30 - 09:40 Recap <!-- ?? -->
 * 09:40 - 11:05 **Clustering** - Adam Reid
 
-    <!-- + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
-    + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_Clustering_Materials.html) -->
+<!-- + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html) -->
+<!-- + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_Clustering_Materials.html) -->
 * 11:05 - 11:15 10 min **break** 
 * 11:15 - 12:30 **Identification of cluster marker genes** - Adam Reid
 
