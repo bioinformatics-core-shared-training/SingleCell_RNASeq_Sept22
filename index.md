@@ -118,7 +118,7 @@ so we may adjust these times as the pace requires.
 ## Acknowledgments: 
 
 Much of the material in this course has been derived from the demonstrations found in 
-[OSCA book](http://bioconductor.org/books/3.14/OSCA.basic/normalization.html) 
+[OSCA book](http://bioconductor.org/books/3.14/OSCA/) 
 and the [Hemberg Group course materials](https://www.singlecellcourse.org/). Additional material concerning `miloR` has been based on the [demonstration from the Marioni Lab.](https://marionilab.github.io/miloR/articles/milo_demo.html)
 
 The materials have been contributed to by many individuals over the last 2 years, including:
