@@ -64,7 +64,7 @@ so we may adjust these times as the pace requires.
 * 10:20 - 10:10 **Preamble**: data set and workflow - Adam Reid
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/02_PreambleSlides.html)
 * 10:40 - 12:00 Library structure, **cellranger** for alignment and cell calling - Adam Reid
-    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03_CellRangerSlides.html) \([pdf](scRNAseq/Slides/CellRangerSlides.pdf)\)
+    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/03_CellRangerSlides.html) \([pdf](scRNAseq/Slides/03_CellRangerSlides.pdf)\)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/03_CellRanger.html)
 * 12.00 - 12.30 **Loupe browser demo** - Roderik Kortlever
   + [Slides](https://docs.google.com/presentation/d/1x80SzeBd8Hyueqvs5OsB48ivXkyO-KhCaY9BVnAs8D0/edit?usp=sharing)
