@@ -46,10 +46,13 @@ of gene expression data, such as TSNE, UMAP and violin plots.
 
 ## Data set
 
-* '[CaronBourque2020](https://www.nature.com/articles/s41598-020-64929-x)' 
-  pediatric leukemia, with four sample types, including:
+* The course data is based on '[CaronBourque2020](https://www.nature.com/articles/s41598-020-64929-x)' 
+  relating to pediatric leukemia, with four sample types, including:
   * pediatric Bone Marrow Mononuclear Cells (PBMMCs)
   * three tumour types: ETV6-RUNX1, HHD, PRE-T  
+* The data used in the course can be [downloaded from Dropbox](https://www.dropbox.com/sh/qwxgat50tsg8m3r/AAAzQd5WXuEBGOFl3m4f5B1La?dl=1) (the file is 4.2GB compressed and XXGB when uncompressed, so make sure you have enough space on your computer). Please note that:
+  * these data have been processed for teaching purposes and are therefore not suitable for research use;
+  * all the data is provided on our training machines, you don't need to download it to attend the course.
 
 ## Schedule
 
@@ -114,6 +117,23 @@ so we may adjust these times as the pace requires.
   <!--  + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html)
     + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise1.Rmd) --> 
+
+## Software Installation
+
+We will give you access to training computers with all the necessary software installed. 
+However, if you want to run the analysis on your own computer, you can follow these instructions. 
+
+* Download and install R: https://cloud.r-project.org/
+  * (Windows users only): Download and install RTools: https://cran.r-project.org/bin/windows/Rtools/
+* Download and install RStudio: https://www.rstudio.com/products/rstudio/download/#download
+* Open RStudio and run the following commands from the console:
+    ```r
+    install.packages("BiocManager")
+    BiocManager::install(c("AnnotationHub", "BiocParallel", "BiocSingular", "DropletUtils", "PCAtools", "batchelor", "bluster", "cluster", "clustree", "dynamicTreeCut", "edgeR", "ensembldb", "ggplot2", "igraph", "patchwork", "pheatmap", "scater", "scran", "tidyverse"))
+    ```
+
+For Cellranger, you will need to use a Linux machine. 
+See the [installation instructions from 10x Genomics](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/installation). 
 
 ## Acknowledgments: 
 
