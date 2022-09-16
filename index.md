@@ -81,7 +81,7 @@ so we may adjust these times as the pace requires.
 
 ### Day 2
 
-* 09:30 - 09:40 Recap <!-- ?? -->
+* 09:30 - 09:40 Recap <!-- Chandu -->
 * 09:40 - 12:30 **Normalisation** - Chandra Chilamakuri
 
 <!--    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/05_NormalisationSlides.html) \([pdf](scRNAseq/Slides/05_normalisationSlides.pdf)\)
@@ -94,10 +94,8 @@ so we may adjust these times as the pace requires.
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/06_FeatureSelectionAndDimensionalityReduction.html) -->
 * 15:25 - 15:35 10 min **break**
 * 15:35 - 17:30 **Batch correction and data set integration** - Ashley Sawle
-
-<!-- + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.html)  
-    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_DatasetIntegration.html)
-    + [Exercise](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_???) -->
+    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/07_DataIntegrationAndBatchCorrectionSlides.html) \([pdf](scRNAseq/Slides/07_DataIntegrationAndBatchCorrectionSlides.pdf)\) 
+    + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/07_Dataset_Integration.html)
     
 ### Day 3
 
