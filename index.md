@@ -81,7 +81,7 @@ so we may adjust these times as the pace requires.
 
 ### Day 2
 
-* 09:30 - 09:40 **Recap**
+* 09:30 - 09:40 **Recap** - Chandra Chilamakuri
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/00_Day1_Recap.html) 
 * 09:40 - 12:30 **Normalisation** - Chandra Chilamakuri
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/05_NormalisationSlides.html) \([pdf](scRNAseq/Slides/05_NormalisationSlides.pdf)\)
