@@ -109,9 +109,8 @@ so we may adjust these times as the pace requires.
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 17.30 **Differential Expression and Abundance Analysis** - Abigail Edwards
 
-  <!--  + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
-    + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html)
-    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise1.Rmd) --> 
+  <!--  + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_DifferentialAnalysis.html) -->
+    + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_Differencial_Exp_Ab.html) 
 
 ## Software Installation
 
