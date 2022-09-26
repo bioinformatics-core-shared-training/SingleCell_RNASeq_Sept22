@@ -99,19 +99,18 @@ so we may adjust these times as the pace requires.
 ### Day 3
 
 * 09:30 - 09:40 Recap <!-- ?? -->
-* 09:40 - 11:05 **Clustering** - Adam Reid
+* 09:40 - 11:05 **Clustering** - Ashley Sawle
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/08_ClusteringSlides.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/08_Clustering.html)
 * 11:05 - 11:15 10 min **break** 
-* 11:15 - 12:30 **Identification of cluster marker genes** - Adam Reid
+* 11:15 - 12:30 **Identification of cluster marker genes** - Hugo Tavares
     + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/09_ClusterMarkerGenes.html)
     + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/09_Cluster_Marker_Genes.html)
 * 12:30 - 13:30 **lunch break**
 * 13:30 - 17.30 **Differential Expression and Abundance Analysis** - Abigail Edwards
 
-  <!--  + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_MultiSplCompSlides.html)
-    + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp.html)
-    + [Practical](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_MultiSplComp_exercise1.Rmd) --> 
+    + [Slides](UnivCambridge_ScRnaSeqIntro_Base/Slides/10_DifferentialAnalysis.html) 
+    + [Demonstration](UnivCambridge_ScRnaSeqIntro_Base/Markdowns/10_Differencial_Exp_Ab.html) 
 
 ## Software Installation
 
